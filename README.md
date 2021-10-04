@@ -10,6 +10,10 @@
 
 #### The only reason to make this web-app was that I wanted to play around with the Twitter API.
 
+## API's Used:
+
+### Twitter API
+
 ## Technologies Used:
 
 #### HTML
